@@ -10,3 +10,6 @@ market study of existing EV/Hybrid market in India before proceeding
 further. So he has tasked the data analytics team, led by Peter Pandey to 
 conduct a detailed market study of the existing EV/hybrid market in India to 
 launch their best selling EV/hybrid models.
+
+#detailed analysis presentation is in the pdf above
+live dashboard link:- https://app.powerbi.com/view?r=eyJrIjoiODBiYjI2ZDUtZGQwZS00YzVhLThkOTEtNDg3MDc4ODM4OGVlIiwidCI6ImRmYWU3OWZjLTUzMDItNDg1ZC1iMWNkLWNhNjY0ZDYwMmNjMyJ9
