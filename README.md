@@ -13,3 +13,5 @@ launch their best selling EV/hybrid models.
 
 #detailed analysis presentation is in the pdf above
 live dashboard link:- https://app.powerbi.com/view?r=eyJrIjoiODBiYjI2ZDUtZGQwZS00YzVhLThkOTEtNDg3MDc4ODM4OGVlIiwidCI6ImRmYWU3OWZjLTUzMDItNDg1ZC1iMWNkLWNhNjY0ZDYwMmNjMyJ9
+
+video presentation - https://drive.google.com/file/d/12zVpu8F8t6CDvo_Vm-fi9tNbx_5zCbjN/view?usp=sharing
